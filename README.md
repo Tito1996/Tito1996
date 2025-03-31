@@ -16,8 +16,8 @@ I'm a passionate **Full Stack Developer** specializing in **Angular** for fronte
 🚀 Expanding my expertise in  **C#**, **Python**, **Astro**, **Kubernetes**, and **MongoDB**.
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vigabui/)
-- **GitHub:** [@yourgithub](https://github.com/Tito1996)
+- **LinkedIn:** [Vicente Gavilà](https://www.linkedin.com/in/vigabui/)
+- **GitHub:** [@Tito1996](https://github.com/Tito1996)
 
 <!---
 TODO: Working on it
